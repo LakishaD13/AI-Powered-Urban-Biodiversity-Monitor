@@ -1,0 +1,16 @@
+class,n_val,correct,accuracy
+American_Goldfinch,30,30,1.0
+American_Robin,30,28,0.9333333333333333
+Barn_Swallow,30,28,0.9333333333333333
+Black_capped_Chickadee,30,29,0.9666666666666667
+Blue_Jay,30,30,1.0
+Dark_eyed_Junco,30,29,0.9666666666666667
+Downy_Woodpecker,30,22,0.7333333333333333
+Field_Sparrow,30,25,0.8333333333333334
+House_Sparrow,30,23,0.7666666666666667
+Indigo_Bunting,30,27,0.9
+Mourning_Dove,30,27,0.9
+Northern_Cardinal,30,28,0.9333333333333333
+Purple_Finch,30,29,0.9666666666666667
+White_crowned_Sparrow,30,26,0.8666666666666667
+White_throated_Sparrow,30,24,0.8

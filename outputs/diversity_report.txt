@@ -1,0 +1,15 @@
+=== Biodiversity Metrics Report ===
+Confidence threshold: 0.3
+Total detections (N): 26
+Number of species (S): 4
+
+Shannon index (H'): 1.0690
+Normalized Shannon (H'/ln(S)): 0.7711
+Simpson diversity (1 - D): 0.5888
+Overall biodiversity score: 0.6799
+
+Species counts:
+  White_crowned_Sparrow: 15
+  House_Sparrow: 6
+  Indigo_Bunting: 4
+  Purple_Finch: 1

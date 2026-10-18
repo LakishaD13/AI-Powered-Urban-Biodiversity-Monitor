@@ -1,0 +1,19 @@
+=== Biodiversity Metrics Report ===
+Total detections (N): 180
+Number of species (S): 9
+
+Shannon index (H'): 2.1972
+Normalized Shannon (H'/ln(S)): 1.0000
+Simpson diversity (1 - D): 0.8889
+Overall biodiversity score: 0.9444
+
+Species counts:
+  014.Indigo_Bunting: 20
+  017.Cardinal: 20
+  035.Purple_Finch: 20
+  073.Blue_Jay: 20
+  118.House_Sparrow: 20
+  119.Field_Sparrow: 20
+  132.White_crowned_Sparrow: 20
+  133.White_throated_Sparrow: 20
+  136.Barn_Swallow: 20

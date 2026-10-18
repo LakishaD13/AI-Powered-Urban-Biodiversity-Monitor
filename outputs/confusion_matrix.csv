@@ -1,0 +1,16 @@
+,American_Goldfinch,American_Robin,Barn_Swallow,Black_capped_Chickadee,Blue_Jay,Dark_eyed_Junco,Downy_Woodpecker,Field_Sparrow,House_Sparrow,Indigo_Bunting,Mourning_Dove,Northern_Cardinal,Purple_Finch,White_crowned_Sparrow,White_throated_Sparrow
+American_Goldfinch,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+American_Robin,0,28,0,0,0,0,0,0,0,0,0,0,1,0,1
+Barn_Swallow,0,1,28,0,0,1,0,0,0,0,0,0,0,0,0
+Black_capped_Chickadee,0,0,1,29,0,0,0,0,0,0,0,0,0,0,0
+Blue_Jay,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0
+Dark_eyed_Junco,0,0,0,0,0,29,0,0,1,0,0,0,0,0,0
+Downy_Woodpecker,0,0,0,4,2,0,22,0,1,0,0,0,0,1,0
+Field_Sparrow,0,1,0,0,0,0,0,25,0,0,0,0,3,0,1
+House_Sparrow,0,0,0,0,0,0,0,2,23,0,0,0,3,1,1
+Indigo_Bunting,0,0,0,0,0,0,0,3,0,27,0,0,0,0,0
+Mourning_Dove,0,0,2,0,0,0,0,0,0,0,27,0,0,0,1
+Northern_Cardinal,0,1,0,0,0,0,0,0,0,0,0,28,1,0,0
+Purple_Finch,0,1,0,0,0,0,0,0,0,0,0,0,29,0,0
+White_crowned_Sparrow,0,0,0,0,0,0,0,3,1,0,0,0,0,26,0
+White_throated_Sparrow,1,1,0,0,0,0,0,0,1,0,0,0,0,3,24

@@ -1,0 +1,15 @@
+American_Goldfinch
+American_Robin
+Barn_Swallow
+Black_capped_Chickadee
+Blue_Jay
+Dark_eyed_Junco
+Downy_Woodpecker
+Field_Sparrow
+House_Sparrow
+Indigo_Bunting
+Mourning_Dove
+Northern_Cardinal
+Purple_Finch
+White_crowned_Sparrow
+White_throated_Sparrow
